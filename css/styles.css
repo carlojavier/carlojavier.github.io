@@ -16,6 +16,10 @@ img {
     border-radius: 50%;
 }
 
+ul {
+    list-style: none;
+}
+
 body {
     padding: 50px;
     margin: 0;
