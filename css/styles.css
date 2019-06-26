@@ -1,0 +1,35 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+body {
+    padding: 50px;
+    margin: 0;
+}
+
+span {
+    font-size: 15px;
+    width: 20%;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    width: 25%;
+    font-size: 15px;
+}
+
