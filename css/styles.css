@@ -12,6 +12,11 @@ html {
     display: flex;
 }
 
+body {
+    padding: 50px;
+    margin: 0;
+}
+
 .mainBody {
     padding: 50px;
 }
@@ -37,18 +42,12 @@ html {
     list-style: none;
 }
 
-body {
-    padding: 50px;
-    margin: 0;
-}
-
-span {
-    font-size: 15px;
-    width: 20%;
-}
-
-p {
+.skills p {
     margin-top: 0;
     margin-bottom: 1rem;
     font-size: 15px;
+}
+
+.bigTitle h1 {
+    font-size: 60px;
 }
