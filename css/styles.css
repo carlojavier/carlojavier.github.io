@@ -51,3 +51,8 @@ body {
 .bigTitle h1 {
     font-size: 60px;
 }
+
+.projects a {
+    color: black;
+    text-decoration: underline;
+}
