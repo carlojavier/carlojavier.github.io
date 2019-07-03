@@ -59,3 +59,8 @@ body {
     color: black;
     text-decoration: underline;
 }
+
+.end-note p {
+    font-size: 14px;
+    text-align: center;
+}
