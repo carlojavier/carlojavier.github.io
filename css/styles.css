@@ -30,6 +30,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .sidebar {
     width: 240px;
+    position: sticky;
+    height: 100%;
+    top: -400px;
 }
 
 .portrait {
