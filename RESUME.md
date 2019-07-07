@@ -30,9 +30,9 @@ MAY 2019 to AUGUST 2019
 ### BACHELOR OF COMMUNICATION STUDIES | CAPILANO UNIVERSITY
 SEPTEMBER 2012 to JUNE 2017
 
+* Other relevant courses taken: Public Speaking, Strategic Communications, Project Management, Advanced Business Writing, Intercultural Communications, and Digital Marketing.
 * One of 10 students to complete rigorous full-year course involving Advanced Communications Research Practice and an Undergrad Thesis.
 * Presented thesis on Racialization of Filipino-Canadians and the ramifications of the Live-In Caregiver Program at the university's annual research symposium.
-* Other relevant courses taken: Public Speaking, Strategic Communications, Project Management, Advanced Business Writing, Intercultural Communications, and Digital Marketing.
 
 ## PROJECTS
 
@@ -48,16 +48,18 @@ SEPTEMBER 2012 to JUNE 2017
 NOVEMBER 2018 TO MARCH 2019
 
 * Maximized the organization's community awareness by implementing a digital marketing plan, complete with an SEO strategy and social media tactics.
-* Overhauled "The Bulletin" newsletter to project a more modern and accessible identity.
+* Overhauled BC FIPA's "Bulletin" newsletter using Adobe and Microsoft Suite to project a more modern and accessible identity.
 * Organized Freedom of Information workshops for university students to help boost engagement with youth. 
-* Regularly wrote web content to help BC FIPA members and the general public to better understand their rights per the Freedom of Information and Privacy Protection Act and the Personal Information Protection Act.
+* Managed web content production with regular blog posts, translating government jargon and legalese to more accessible posts about provincial and national development in Freedom of Information and protection of privacy laws.
+* Liaised with both local and national media, coordinated interviews for BC FIPA's executive director and president. 
 
 ### WRITER AND EDITOR | CAPILANO COURIER
 SEPTEMBER 2012 TO MAY 2018
 
 * Two-time national nominee at the Canadian University Press' John H. MacDonald Awards: Outstanding Arts and Culture Writing (2016) and Outstanding Diversity Reporting (2018).
 * Rebuilt coverage on campus sports teams, initiated complete website redesign, and implemented social and digital media as part of production.
-* Elected by staff and contributors to serve as Editor-in-Chief for the 2017-2018 publication calendar. Oversaw the entire publication process of the paper, including hiring and training staff, and ensuring standard writing quality.
+* Elected by staff and contributors to serve as Editor-in-Chief for the 2017-2018 publication calendar. 
+* Oversaw the entire publication process of the paper, including hiring and training staff, and ensuring standard writing quality.
 * Created writing and editing guide for new writers and editors.
 
 ### EDITORIAL INTERN | WESTERN LIVING MAGAZINE
