@@ -9,7 +9,8 @@ body {
     font-family: 'Barlow', sans-serif;
     font-weight: 400;
     font-size: large;
-    padding: 0;
+    padding-left: 4em;
+    padding-right: 4em;
     margin: 0;
 }
 
