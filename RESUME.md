@@ -15,7 +15,7 @@ Perpetual storyteller and lifelong learner. Web Developer with foundations roote
 
 ## SUMMARY
 
-Web Developer with a background in communications, journalism, and advocacy. 
+Perpetual storyteller bringing the people-first aspects of journalism, communications and advocacy to the digital world of web development. I fancy clean copy, clean code, and most of all - great user experiences. Always fascinated with how code and a well-written program can help us be better people.When I'm not coding, I like to cook, write short stories, and shoot basketballs.
 
 ## EDUCATION
 
